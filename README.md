@@ -1,1 +1,1 @@
-The DMRG code I wrote during the visit to Delft University of Technology, Delft, Netherlands (12-23.02.2023).
+The DMRG code I wrote for learning purposes while visiting Delft University of Technology, Delft, Netherlands (Feb 12-23, 2023). It includes the 2-site infinite DMRG algorithm on top of a minimalist version of [MatrixProductStates.jl](https://github.com/MasonProtter/MatrixProductStates.jl). 
